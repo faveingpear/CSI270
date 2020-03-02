@@ -1,0 +1,33 @@
+
+# OOP - Object Oriented Programming
+# OOD - Object Oriented Design
+
+### Object - (Noun)
+
+	1) Instance Variables (Describe the object)
+	2) Behaviors Methods (Actions)
+
+---
+
+### Class - (Blueprint for object)
+
+Today -
+
+	- OOD Problem
+	- OOP Implement 
+	- Well-defined class
+	- Random numbers (Pseudo)
+
+---
+
+### Object Pair of Dice (Roll)
+
+	- 6 sided dice
+	
+### Random numbers 
+
+	- An algorithim is an ordered set of unambiguous, executable steps that defines a terminating process. 
+	- Seed (starting point)
+	- Math.random()
+		- double <-- Need to type cast
+		- 0.0 < x < 1.0
